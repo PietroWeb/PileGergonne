@@ -1,6 +1,6 @@
-# Pile di Gergonne - Software di Analisi
+# Gergonne's Pile Problem - An analysis software
 
-Un piccolo programma in C# realizzato con Visual Studio 2017, per l'analisi delle Pile di Gergonne.
+A small C# software built with Visual Studio 2017, for Gergonne's Pile problem analysis.
 
 https://www.pvitelli.net/2017/06/07/le-pile-di-Gergonne/  
 https://www.pvitelli.net/2017/12/12/le-pile-di-Gergonne-approfondimento/
